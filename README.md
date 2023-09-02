@@ -7,9 +7,9 @@
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Model Deployment](#model-deployment)
-- [Demo](#demo)
+- [Deployed Model URL](#deployed-model-URL)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## About
 
